@@ -65,7 +65,7 @@ h1.title {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  background: #8cf5f5;
+  background: #82C6C2;
   padding: 15px 0px;
   font-size: 19px;
   text-transform: capitalize;
@@ -178,7 +178,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #8cf5f5;
+  background: #82C6C2;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -598,7 +598,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #8cf5f5;
+    background: #82C6C2;
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -784,7 +784,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #8cf5f5;
+  background: #82C6C2;
   border-radius: 4px;
   width: 73px;
   height: 73px;
