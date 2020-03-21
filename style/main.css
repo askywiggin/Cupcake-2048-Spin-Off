@@ -809,62 +809,62 @@ hr {
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-4 {
-  background: #eeeaf1;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-8 {
   color: white;
-  background: #ddd5e3;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-16 {
   color: white;
-  background: #ccc0d5;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .cell-32 {
   color: white;
-  background: #bcabc7;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
 
 .cell-64 {
   color: white;
-  background: #ab96b9;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
 
 .cell-128 {
   color: white;
-  background: #9a81ab;
+  background: white;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .cell-256 {
   color: white;
-  background: #8a6c9d;
+  background: #9c665f;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .cell-512 {
   color: white;
-  background: #79578f;
+  background: #613024;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .cell-1024 {
   color: white;
-  background: #684281;
+  background: #3a170c;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .cell-2048 {
   color: white;
-  background: #582e74;
+  background: #120601;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
 .cell-4096 {
   color: white;
-  background: #582e74;
+  background: #120601;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.6), inset 0 0 0 1px rgba(255, 255, 255, 0.38); }
 
 .cell-8192 {
   color: white;
-  background: #582e74;
+  background: #120601;
   box-shadow: 0 0 30px 5px rgba(18, 6, 1, 0.7), inset 0 0 0 1px rgba(255, 255, 255, 0.43); }
 
 .repo-link {
